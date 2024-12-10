@@ -1,0 +1,30 @@
+*{
+    margin: 10px;
+    background-image: url(/images/Version-control.webp);
+    color: antiquewhite;
+}
+#hello{
+    text-decoration: underline;
+}
+p{
+    text-align: justify;
+    color: yellow;
+    font-family: cursive;
+}
+h2, h3{
+    font-family: monospace;
+    font-style: italic;
+    font-size: xx-large;
+    color:lime;
+}
+ol>li{
+    font-size: larger;
+    color: springgreen;
+    font-weight: 700;
+}
+ol>ul{
+    color: peachpuff;
+}
+.important{
+    text-decoration: underline;
+}
